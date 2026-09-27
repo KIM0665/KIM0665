@@ -1,9 +1,9 @@
 ### 안녕하세요, 환경 현장을 아는 개발자 김기윤입니다 👋
 
 대기오염 측정 현장에서 일하다 개발자로 전향했습니다.
-지금은 교육 서비스 기업에서 **Java/Spring 업무 시스템**을 만들고, 업무 외 시간에는 전공(환경공학)을 살려 **환경 데이터 서비스**를 만듭니다.
+지금은 교육 서비스 기업에서 **Android·iOS 앱과 웹 서비스**를 만들고, 업무 외 시간에는 전공(환경공학)을 살려 **환경 데이터 서비스**를 만듭니다.
 
-💼 운영 시스템 개발 2년+ **경력 개발자** · 환경 데이터의 **수집부터 AI 분석, 사용자 화면까지** 한 흐름으로 만드는 풀스택 개발을 지향합니다.
+💼 2년간 **앱(Android·iOS·PWA)과 내부망 웹 서비스를 화면부터 DB, 배포까지** 책임져 왔습니다 · 환경 데이터의 **수집부터 AI 분석, 사용자 화면까지** 한 흐름으로 만드는 풀스택 개발을 지향합니다.
 
 🔗 **포트폴리오 · 사례 연구 → [kky.ai.kr](https://kky.ai.kr)**
 
@@ -23,7 +23,7 @@
 #### 🧰 기술
 
 **Backend** &nbsp; Java 1.8 · Spring MVC · MyBatis · Python · FastAPI<br>
-**Frontend** &nbsp; TypeScript · Angular · Ionic · Leaflet · MapLibre<br>
+**Frontend / App** &nbsp; Ionic (Android · iOS · PWA) · TypeScript · Angular · Leaflet · MapLibre<br>
 **Database** &nbsp; MySQL · MariaDB · Oracle — 쿼리 튜닝, 인덱스 설계<br>
 **AI / 데이터** &nbsp; PyTorch · 이미지 세그멘테이션 · LLM API · 프롬프트 설계<br>
 **GIS / 위성** &nbsp; Google Earth Engine · Sentinel-2 · QGIS<br>
