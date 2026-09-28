@@ -14,7 +14,7 @@
 | | 문제 상황 | 결과 |
 |---|---|---|
 | 회사 | [운영에서만 10초 걸리던 목록 조회](https://kky.ai.kr/case/query-tuning) | 레거시 쿼리 상시 개선 중 대표 사례 — 인덱스 + 쿼리 변경, 개발(MySQL)·운영(MariaDB) 차이 반영 → **0.01초 이내** |
-| 회사 | [정오답 판정이 절반만 맞던 AI 채점](https://kky.ai.kr/case/auto-grading) | 프롬프트·코드 보완으로 판정 정확도 **40~50% → 70%**, 서·논술 채점 편차 감소 |
+| 회사 | [정오답 판정이 절반만 맞던 AI 채점](https://kky.ai.kr/case/auto-grading) | 손풀이 계산 문제 판정 정확도 **40~50% → 70%** (Gemma), 서·논술은 Gemini로 설계해 채점 편차 감소 |
 | 회사 | [지원이 끊긴 카카오 로그인 플러그인](https://kky.ai.kr/case/kakao-login) | Capacitor 전면 전환 대신 카카오 REST API + 서버 토큰 교환으로 **7일 만에** 해결 |
 | 개인 | [기관마다 흩어져 있던 환경 데이터](https://kky.ai.kr/case/water-explorer) | 수질·기상·유량·위성 데이터를 하나의 지도로 통합한 [Water Explorer](https://gqx.co.kr) — 서버 구축·배포·운영까지 직접 |
 | 개인 | [줄무늬 노이즈만 남던 수계 분리 모델](https://kky.ai.kr/case/water-segmentation) | 픽셀 분류 → 영역 단위 세그멘테이션 전환, 물 영역 **87% 일치** (IoU) |
