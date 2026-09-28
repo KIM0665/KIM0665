@@ -9,7 +9,7 @@
 
 ---
 
-#### 📌 회사와 개인 프로젝트에서 부딪힌 문제 5가지
+#### 📌 회사와 개인 프로젝트에서 부딪힌 문제 4가지
 
 | | 문제 상황 | 결과 |
 |---|---|---|
@@ -17,7 +17,6 @@
 | 회사 | [할루시네이션과 싸운 AI 채점](https://kky.ai.kr/case/auto-grading) | 손풀이 계산 문제 판정 정확도 **40~50% → 70%** (Gemma), 서·논술은 반복 채점 절사평균으로 채점 편차 감소 |
 | 회사 | [지원이 끊긴 카카오 로그인 플러그인](https://kky.ai.kr/case/kakao-login) | Capacitor 전면 전환 대신 카카오 REST API + 서버 토큰 교환으로 **7일 만에** 해결 |
 | 개인 | [기관마다 흩어져 있던 환경 데이터](https://kky.ai.kr/case/water-explorer) | 수질·기상·유량·위성 데이터를 하나의 지도로 통합한 [Water Explorer](https://gqx.co.kr) — 서버 구축·배포·운영까지 직접 · [수집기 코드](https://github.com/KIM0665/water-data-collectors) |
-| 개인 | [줄무늬 노이즈만 남던 수계 분리 모델](https://kky.ai.kr/case/water-segmentation) | 인수받은 픽셀 분류 → 영역 단위 세그멘테이션 전환, 물 영역 **87% 일치** (IoU) + Chl-a·피코시아닌 농도 산출 데스크톱 프레임워크 |
 
 ---
 
