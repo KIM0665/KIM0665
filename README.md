@@ -25,7 +25,7 @@
 **Backend** &nbsp; Java 1.8 · Spring MVC · MyBatis · Python · FastAPI<br>
 **Frontend / App** &nbsp; Ionic (Android · iOS · PWA) · TypeScript · Angular · Leaflet · MapLibre<br>
 **Database** &nbsp; MySQL · MariaDB · Oracle — 쿼리 튜닝, 인덱스 설계<br>
-**AI / 데이터** &nbsp; PyTorch · 이미지 세그멘테이션 · LLM API · 프롬프트 설계<br>
+**AI / 데이터** &nbsp; PyTorch · LLM API · 프롬프트 설계<br>
 **GIS / 위성** &nbsp; Google Earth Engine · Sentinel-2 · QGIS<br>
 **Infra** &nbsp; Linux · Tomcat · nginx · GitHub Actions
 
